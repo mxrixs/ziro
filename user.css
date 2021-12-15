@@ -1,7 +1,7 @@
 :root {
-  --border-radius-1: 10px;
-  --border-radius-2: 8px;
-  --border-radius-3: 4px;
+  --border-radius-1: 8px;
+  --border-radius-2: 4px;
+  --border-radius-3: 2px;
   --scrollbars: unset;
   --green: #1db954;
 }
@@ -11,7 +11,7 @@
 }
 .os-scrollbar-handle {
   border-radius: 50px;
-  background: var(--spice-button-disabled) !important;
+  background: var(--spice-card) !important;
 }
 /* remove shadows */
 * {
@@ -49,6 +49,12 @@
 }
 .main-card-card, .view-homeShortcutsGrid-shortcut {
   background-color: var(--spice-card) !important;
+}
+.Z35BWOA10YGn5uc9YgAp{
+  background-color: var(--spice-card);
+}
+.Z35BWOA10YGn5uc9YgAp:hover{
+  background-color: var(--spice-selected-row);
 }
 /* transitions */
 .main-card-card {
@@ -124,6 +130,9 @@ button.switch {
 #spicetify-home-config button:disabled, #spicetify-sidebar-config button:disabled {
   background-color: var(--spice-button-disabled) !important;
   color: var(--spice-text) !important;
+}
+#searchPage > div > div.UguSjaFgTlIkTfwZGvl0 > section > div.main-gridContainer-gridContainer.main-shelf-shelfGrid > div > div.NLHYLyQ5AePa93viWTrw > button{
+  background-color: var(--spice-main);
 }
 /* category sidebar */
 .main-navBar-navBarLink {
@@ -470,6 +479,9 @@ input:hover:not([disabled]):not(:active)~.x-toggle-indicatorWrapper {
   border-radius: var(--border-radius-1);
 }
 /* player */
+.x-progressBar-progressBarBg{
+  background-color: var(--spice-card);
+}
 .progress-bar {
   --fg-color: var(--spice-button-active);
 }
@@ -563,6 +575,4 @@ input:hover:not([disabled]):not(:active)~.x-toggle-indicatorWrapper {
   --lyrics-color-active: var(--spice-text) !important;
   --lyrics-color-inactive: var(--spice-subtext) !important;
   --lyrics-color-messaging: var(--spice-subtext) !important;
-}
-}
 }
