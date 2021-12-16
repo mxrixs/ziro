@@ -368,6 +368,9 @@ path[d="M23 0C10.298 0 0 10.297 0 23c0 12.702 10.298 23 23 23 12.703 0 23-10.298
   color: var(--spice-notification-error);
 }
 /* modals */
+.main-trackList-indexable {
+  border-bottom: none !important;
+}
 .main-trackCreditsModal-container, .main-aboutRecsModal-container, .main-playlistEditDetailsModal-container, .profile-userEditDetails-container, .artist-artistAbout-modal {
   background-color: var(--spice-main) !important;
   border-radius: var(--border-radius-1) !important;
