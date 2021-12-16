@@ -1,5 +1,7 @@
 # Ziro
 
+<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
+
 A slightly changed, nord-themed version of the really nice [Ziro spicetify Theme](https://github.com/schnensch0/ziro) by schnensch0
 
 The most significant changes are the following:
