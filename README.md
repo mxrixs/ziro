@@ -1,3 +1,5 @@
+# Ziro
+
 A slightly changed nord-themed version of the really nice [Ziro spicetify Theme](https://github.com/schnensch0/ziro) by schnensch0
 
 The most signoficant changes are the following:
