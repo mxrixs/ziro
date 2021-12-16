@@ -11,4 +11,4 @@ The most significant changes are the following:
   - 'Unused' part of the timline has a different color
 - Removed Podcast section from homepage. They can still be acessed via the sidebar and search. 
 
-for any support please just go and use the original repository and the info that comes with it as this fork is only developed for the `nord` theme (in `colors.ini`) and for my specific setup.
+for any support please just go and use the original repository and the info that comes with it as this fork is only developed for the `nord` theme (in `colors.ini`) and for my specific setup. If you feel like using this nontheless any feedback or contribuation is encouraged!
