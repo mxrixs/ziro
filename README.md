@@ -4,7 +4,7 @@
 
 A slightly changed, nord-themed version of the really nice [Ziro spicetify Theme](https://github.com/schnensch0/ziro) by schnensch0
 
-![Preview Screenshot]("screenshot.png")
+![Preview Screenshot](Screenshot.png)
 
 The most significant changes are the following:
 - Changes on certain colors for visibility:
