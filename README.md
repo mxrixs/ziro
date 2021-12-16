@@ -2,14 +2,14 @@
 
 <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
 
-###A slightly changed, nord-themed version of the really nice [Ziro spicetify Theme](https://github.com/schnensch0/ziro) by schnensch0
+### A slightly changed, nord-themed version of the really nice [Ziro spicetify Theme](https://github.com/schnensch0/ziro) by schnensch0
 
 ![Preview Screenshot](Screenshot.png)
 
 (consider actually opening the readme file for a higher definition preview)
 
 
-###The most significant changes are the following:
+### The most significant changes are the following:
 
 - Changes on certain colors for visibility:
   - scrollbars have a different color
