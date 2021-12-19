@@ -1,10 +1,17 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ┏┓━┏┓━━━━━━━━━━━┏━┓━━━━━━━━━
+
 ┃┃━┃┃━━━━━━━━━━━┃┏┛━━━━━━━━━
+
 ┃┃━┃┃┏┓┏┓┏┓┏┓┏┓┏┛┗┓┏┓┏━━┓┏━┓
+
 ┃┃━┃┃┃┗┛┗┛┃┃┃┃┃┗┓┏┛┣┫┃┏┓┃┃┏┛
+
 ┃┗━┛┃┗┓┏┓┏┛┃┗┛┃━┃┃━┃┃┃┃━┫┃┃━
+
 ┗━━━┛━┗┛┗┛━┗━━┛━┗┛━┗┛┗━━┛┗┛━
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-hero.svg?sanitize=true"/></a></p>
