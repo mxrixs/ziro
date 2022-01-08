@@ -412,6 +412,19 @@ path[d="M23 0C10.298 0 0 10.297 0 23c0 12.702 10.298 23 23 23 12.703 0 23-10.298
 .uO7eUe39EL4pBkFg_plk>:last-child {
   background-color: transparent;
 }
+.GenericModal__overlay {
+  background-color: rgba(var(--spice-rgb-shadow),.2) !important;
+}
+.wvLAEV5wF5C5ej6rvimT {
+  display: none;
+}
+.oN9QVvJKEtdTH3HGfCu1:focus {
+  background-color: var(--spice-selected-row);
+  border: 1px solid var(--spice-selected-row);
+}
+.PsrXxenHUFXYM1ub1xWw, .main-editImageButton-overlay {
+  background-color: rgba(var(--spice-rgb-shadow),.3);
+}
 /* friend activity */
 .main-buddyFeed-username a {
   color: var(--spice-text) !important;
