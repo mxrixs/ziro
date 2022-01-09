@@ -573,6 +573,9 @@ input:hover:not([disabled]):not(:active)~.x-toggle-indicatorWrapper {
 .player-controls__buttons {
   margin-bottom: 0;
 }
+button.Button-y0gtbx-0.gmCHRs{
+  display: none;
+}
 /* ads */
 .desktoproutes-homepage-takeover-ad-hptoHtml-slot {
   border-radius: var(--border-radius-1) !important;
